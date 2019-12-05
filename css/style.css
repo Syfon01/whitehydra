@@ -1579,4 +1579,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   #mobile-nav-toggle {
     display: inline;
   }
+  .progress{
+    font-size:0.55rem!important;
+  }
 }
